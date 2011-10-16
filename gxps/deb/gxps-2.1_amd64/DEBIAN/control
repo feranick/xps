@@ -1,0 +1,9 @@
+Package: gxps
+Version: 2.1
+Section: main
+Priority: optional
+Architecture: amd64
+Depends: grace
+Installed-Size: 68.9
+Maintainer: Nicola Ferralis <feranick@hotmail.com>
+Description: GXPS File Conversion from Omicron EIS and CASAxps (VAMAS files) and Presenter (SPECTRA files) to ASCII files. It performs background subtraction and curve fitting. 
